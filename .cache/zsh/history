@@ -3,3 +3,6 @@
 : 1721656980:0;cd techcon_website
 : 1721656982:0;cd ..
 : 1721656993:0;git add .
+: 1721657006:0;git commit -m "updaate"
+: 1721657010:0;git push
+: 1721657245:0;git add . && git commit -m "update" && git push 
